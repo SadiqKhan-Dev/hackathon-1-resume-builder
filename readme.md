@@ -45,9 +45,7 @@ This milestone-based structure helps new learners build a real project step-by-s
 
 Repository Overview
 
-(Add your screenshot here)
-
-Language Breakdown
+## 🌐 Language Breakdown
 
 <!-- adding images -->
 <div style="display: flex; justify-content: space-evenly;">
