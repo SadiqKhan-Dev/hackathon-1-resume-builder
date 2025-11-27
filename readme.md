@@ -48,7 +48,7 @@ Repository Overview
 ## 🌐 Language Breakdown
 
 <!-- adding images -->
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; justify-content: space-evenly; gap: 1rem; border: 1px solid black; padding: 2rem; baclground-color: #f5f7fa;">
 <img src="./assets/HTML.svg" alt="HTML" width="100" height="100">
 <img src="./assets/CSS.svg" alt="HTML" width="100" height="100">
 <img src="./assets/JavaScript.svg" alt="HTML" width="100" height="100">
