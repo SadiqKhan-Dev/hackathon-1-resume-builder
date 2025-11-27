@@ -49,14 +49,14 @@ Repository Overview
 
 Language Breakdown
 
-(Add your language stats screenshot here)
-
 <!-- adding images -->
+<div style="display: flex; justify-content: space-evenly;">
+<img src="./assets/HTML.svg" alt="HTML" width="100" height="100">
+<img src="./assets/CSS.svg" alt="HTML" width="100" height="100">
+<img src="./assets/JavaScript.svg" alt="HTML" width="100" height="100">
+<img src="./assets/TypeScript.svg" alt="HTML" width="100" height="100">
 
-<img src="./assets/HTML.svg" alt="HTML" width="50" height="50">
-<img src="./assets/CSS.svg" alt="HTML" width="50" height="50">
-<img src="./assets/JavaScript.svg" alt="HTML" width="50" height="50">
-<img src="./assets/TypeScript.svg" alt="HTML" width="50" height="50">
+</div>
 
 <!-- https://github.com/SadiqKhan-Dev/icons-collections/blob/main/icons/HTML.svg -->
 
