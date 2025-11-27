@@ -51,8 +51,14 @@ Language Breakdown
 
 (Add your language stats screenshot here)
 
-You can simply drag–drop the images into README on GitHub and GitHub will link them automatically.
+<!-- adding images -->
 
+<img src="./assets/HTML.svg" alt="HTML" width="50" height="50">
+<img src="./assets/CSS.svg" alt="HTML" width="50" height="50">
+<img src="./assets/JavaScript.svg" alt="HTML" width="50" height="50">
+<img src="./assets/TypeScript.svg" alt="HTML" width="50" height="50">
+
+<!-- https://github.com/SadiqKhan-Dev/icons-collections/blob/main/icons/HTML.svg -->
 
 ## 🛠️ Technologies Used
 

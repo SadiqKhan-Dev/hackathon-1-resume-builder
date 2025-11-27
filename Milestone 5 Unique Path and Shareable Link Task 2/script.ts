@@ -57,11 +57,10 @@ document
       // Create resume output
       const resumeOutput = `
             <h2>Resume</h2>
-            ${
-              profilePictureURL
-                ? `<img src="${profilePictureURL}" alt="Profile Picture" class="profilePicture">`
-                : ""
-            }
+            ${profilePictureURL
+          ? `<img src="${profilePictureURL}" alt="Profile Picture" class="profilePicture">`
+          : ""
+        }
             <p><strong>Name:</strong> <span id="edit-name" class="editable"> ${name} </span></p>
             <p><strong>Email:</strong> <span id="edit-email" class="editable"> ${email} </span></p>
             <p><strong>Phone Number:</strong> <span id="edit-phone" class="editable"> ${phone} </span></p>
