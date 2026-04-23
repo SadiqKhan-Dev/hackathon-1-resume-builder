@@ -185,4 +185,4 @@ If you want help improving this repo or adding features, feel free to ask anytim
 
 **Email:** saiqkhan7777@gmail.com
 
-**GitHub:** https://github.com/saiqkhan7777
+**GitHub:** https://github.com/SadiqKhan-Dev
